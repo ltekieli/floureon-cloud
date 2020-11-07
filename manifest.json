@@ -1,0 +1,8 @@
+{
+  "domain": "floureon-cloud",
+  "name": "Floureon thermostats cloud access",
+  "documentation": "https://github.com/ltekieli/floureon-cloud",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["weback-unofficial==0.3.4"]
+}
