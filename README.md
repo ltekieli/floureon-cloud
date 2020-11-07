@@ -10,5 +10,5 @@ Example:
 	      login: +49-1234...
 	      password: xxxx
 	      device: by-t03-00-11-22...
-          name: Living room
+              name: Living room
 ```
