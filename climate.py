@@ -167,7 +167,7 @@ class Device:
 
     def _client(self):
         session = self._weback.get_session()
-        return session.client('iot-data')
+        return session.client('iot-data', endpoint_url=f"https://{self._weback.IOT_DATA_ENDPOINT}")
 
     def shadow(self):
         self._lock.acquire()

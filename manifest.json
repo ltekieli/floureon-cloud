@@ -4,5 +4,5 @@
   "documentation": "https://github.com/ltekieli/floureon-cloud",
   "dependencies": [],
   "codeowners": [],
-  "requirements": ["weback-unofficial==0.3.4"]
+  "requirements": ["git+https://github.com/ltekieli/weback-unofficial.git@master#weback-unofficial==1.0.0"]
 }
